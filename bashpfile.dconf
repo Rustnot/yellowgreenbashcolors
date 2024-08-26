@@ -1,0 +1,24 @@
+[/]
+audible-bell=true
+background-color='rgb(255,255,255)'
+background-transparency-percent=13
+bold-color='rgb(114,114,114)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cursor-background-color='rgb(0,96,255)'
+cursor-blink-mode='on'
+cursor-foreground-color='rgb(0,122,255)'
+cursor-shape='block'
+default-size-columns=101
+default-size-rows=26
+font='CaskaydiaMono Nerd Font 7'
+foreground-color='rgb(101,104,107)'
+highlight-background-color='rgb(0,167,131)'
+highlight-foreground-color='rgb(13,73,78)'
+palette=['rgb(170,231,186)', 'rgb(2,2,99)', 'rgb(86,142,246)', 'rgb(255,227,119)', 'rgb(99,201,196)', 'rgb(27,152,235)', 'rgb(124,133,129)', 'rgb(255,225,70)', 'rgb(136,214,170)', 'rgb(255,199,18)', 'rgb(172,173,161)', 'rgb(213,226,251)', 'rgb(143,162,166)', 'rgb(162,167,174)', 'rgb(0,148,255)', 'rgb(255,255,255)']
+scroll-on-output=true
+scrollbar-policy='never'
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='opthwhiteblue (white) (Space green)'
